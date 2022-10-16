@@ -1,0 +1,3 @@
+/*
+A logical operator is used to check if two or more b
+*/
